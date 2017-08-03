@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>site.new_project</name>
+    <url>http://site.new_project/</url>
+    <root>home/site.new_project</root>
+  </project>
+</winginx>
